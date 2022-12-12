@@ -3,4 +3,9 @@ We worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) along 
 We developed a flutter application as a use case of our project that uses real time camera for video streams. 
 In the backend our model predicts the unexpected event and sent an SMS notification containing all the information along with the user's location
 and current time. The model is deployed on Hureko Server.<p>
-<img src="Final-Year-Project-/Accuracy&Loss Graph/cnn_4Categ_accuracy.png>
+
+<div>
+  <img src="Accuracy&Loss Graph/cnn_4Categ_accuracy.png" alt="Accuracy Graph" width="400" height="350" title="Accuracy Graph">
+  
+  <img src="Accuracy&Loss Graph/cnn_4Categ_loss.png" alt="Accuracy Graph" width="400" height="350" title="Loss Graph">
+  </div>
